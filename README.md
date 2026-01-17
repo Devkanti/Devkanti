@@ -7,13 +7,13 @@ I enjoy learning new things, building projects, and understanding how technology
 
 ---
 
-🙋 About Me
+🙋 About Me : 
 I’m a curious learner who likes exploring technology, design, and problem-solving.  
 I believe the best way to learn is by building and experimenting 🛠️
 
 ---
 
-💡 Interests
+💡 Interests : 
 - Programming & logical thinking 💻  
 - Building practical projects 🚀  
 - Mixing hardware, software, and design 🎨  
@@ -21,14 +21,14 @@ I believe the best way to learn is by building and experimenting 🛠️
 
 ---
 
-📂 What You’ll Find Here
+📂 What You’ll Find Here :
 - Small projects and experiments  
 - Practice work and notes 📝  
 - Things I build while learning  
 
 ---
 
-🌱 Currently
+🌱 Currently :
 - Learning new concepts  
 - Improving my skills  
 - Exploring ideas through projects  
