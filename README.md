@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I’m Devkanti Sarkar 👋
 
-<!--
-**Devkanti/Devkanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile ✨
 
-Here are some ideas to get you started:
+This repository is a small introduction about me.  
+I enjoy learning new things, building projects, and understanding how technology works in real life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🙋 About Me
+I’m a curious learner who likes exploring technology, design, and problem-solving.  
+I believe the best way to learn is by building and experimenting 🛠️
+
+---
+
+💡 Interests
+- Programming & logical thinking 💻  
+- Building practical projects 🚀  
+- Mixing hardware, software, and design 🎨  
+- Learning step by step 📚  
+
+---
+
+📂 What You’ll Find Here
+- Small projects and experiments  
+- Practice work and notes 📝  
+- Things I build while learning  
+
+---
+
+🌱 Currently
+- Learning new concepts  
+- Improving my skills  
+- Exploring ideas through projects  
+
+---
+
+Thanks for stopping by 😊  
+Feel free to explore my repositories!
