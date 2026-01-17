@@ -23,7 +23,6 @@ I believe the best way to learn is by building and experimenting 🛠️
 
 📂 What You’ll Find Here :
 - Small projects and experiments  
-- Practice work and notes 📝  
 - Things I build while learning  
 
 ---
