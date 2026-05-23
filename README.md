@@ -1,6 +1,8 @@
 # Hi, I’m Devkanti Sarkar 👋
 
-Welcome to my GitHub profile! ✨ 
+**IT Undergrad @ VIT Vellore | Building intelligent, data-driven applications through full-stack dev, ML, and design.**
+
+---
 
 ### 🙋 About Me
 I am an Information Technology undergraduate at **Vellore Institute of Technology (VIT Vellore)**. I am a curious learner deeply passionate about software development, focusing on building scalable backend systems, intelligent data-driven applications, and full-stack solutions. 
@@ -32,9 +34,10 @@ Beyond just writing code, I enjoy blending technical problem-solving with visual
 ---
 
 ### 📫 Let's Connect
-* 🌐 **Portfolio:** [devkantisarkar.vercel.app](https://devkantisarkar.vercel.app/)
-* 💼 **LinkedIn:** [linkedin.com/in/devkantisarkar](https://www.linkedin.com/in/devkantisarkar/)
-* ✉️ **Email:** [work.devkantisarkar@gmail.com](mailto:work.devkantisarkar@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devkantisarkar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devkantisarkar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.devkantisarkar@gmail.com)
 
 ---
 Thanks for stopping by! Feel free to explore my repositories. 😊
