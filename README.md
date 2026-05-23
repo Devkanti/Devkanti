@@ -27,10 +27,9 @@ Beyond just writing code, I enjoy blending technical problem-solving with visual
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devkanti&show_icons=true&theme=gotham&rank_icon=github" alt="Devkanti's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkanti&layout=compact&theme=gotham" alt="Top Languages" height="180px" />
-</p>
+[![Devkanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devkanti&show_icons=true&theme=gotham&rank_icon=github)](https://github.com/Devkanti)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devkanti&layout=compact&theme=gotham)](https://github.com/Devkanti)
 
 ---
 
