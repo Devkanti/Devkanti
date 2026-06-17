@@ -53,43 +53,51 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 # Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-### Programming Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
 
-<br><br>
+</td>
 
-### Web & App Development
+<td align="center" width="33%">
+
+### Web & App Dev
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-<br><br>
+</td>
 
-### Database Management
+<td align="center" width="33%">
+
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 
-<br><br>
+</td>
+
+</tr>
+</table>
+
+<div align="center">
 
 ### AI & Data Science
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data_Structures-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Structures-008080?style=flat-square"/>
 
 </div>
 
