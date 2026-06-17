@@ -1,10 +1,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devkanti&theme=tokyonight"/>
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Devkanti%20Sarkar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20IT%20Undergraduate&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Information+Technology+Undergraduate+at+VIT+Vellore;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Design+Head+at+IEEE-ITS+VIT"/>
