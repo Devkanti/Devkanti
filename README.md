@@ -140,20 +140,24 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 <div align="center">
 
+### 📫 Let's Connect
+
 <a href="mailto:work.devkantisarkar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Devkanti_Sarkar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/devkantisarkar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Devkanti_Sarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://github.com/Devkanti">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Devkanti-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://devkantisarkar.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
