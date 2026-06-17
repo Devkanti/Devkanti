@@ -92,12 +92,21 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 <div align="center">
 
-### AI & Data Science
+# Core Expertise
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data_Structures-008080?style=flat-square"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full_Stack_Development-React_•_Node.js_•_Flutter-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-Model_Training_&_Evaluation-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analysis-EDA_&_Visualization-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-OpenCV_&_MediaPipe-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-HuggingFace_&_Text_Processing-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend_Development-APIs_&_Databases-0EA5E9?style=for-the-badge"/>
 
 </div>
 
