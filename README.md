@@ -173,6 +173,5 @@ Open_To:
 
 </div>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:9333EA"/>
