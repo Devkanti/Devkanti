@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Devkanti%20Sarkar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
