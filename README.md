@@ -67,16 +67,12 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 # Core Expertise
 
-<div align="center">
-
 | Domain | Technologies & Focus |
 |---------|---------------------|
-| 🌐 Full Stack Development | React • Node.js • Express.js • Flutter |
-| 🤖 Machine Learning | Model Training • Evaluation • Predictive Systems |
-| 📊 Data Analysis | EDA • Data Cleaning • Visualization |
-| 👁️ Computer Vision | OpenCV • MediaPipe • Pose Estimation |
-| 🧠 NLP | HuggingFace • Text Processing |
-| 🗄️ Backend Systems | REST APIs • MongoDB • PostgreSQL • Firebase |
+| Full Stack Development | React • Node.js • Express.js • Flutter |
+| Machine Learning | Model Training • Evaluation • Predictive Systems |
+| Data Analysis | Data Cleaning • Visualization |
+| Backend Systems | REST APIs • MongoDB • PostgreSQL • Firebase |
 
 </div>
 
