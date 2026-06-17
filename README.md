@@ -112,18 +112,6 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# AI / ML Expertise
-
-| Domain | Experience | Details |
-|----------|----------|----------|
-| Machine Learning | Intermediate | Model Development & Evaluation |
-| NLP | Intermediate | Transformers & Text Processing |
-| Computer Vision | Intermediate | OpenCV & MediaPipe |
-| Data Analytics | Intermediate | Data Processing & Visualization |
-| AI Integration | Intermediate | AI-Powered Applications |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 # GitHub Analytics
 
 <div align="center">
