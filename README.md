@@ -31,7 +31,6 @@
 
 </div>
 
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # About Me
@@ -50,7 +49,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 - Open Source Contributions
 - Research Collaborations
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # Tech Stack
 
@@ -102,7 +101,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # AI / ML Expertise
 
@@ -114,7 +113,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 | Data Analytics | Intermediate | Data Processing & Visualization |
 | AI Integration | Intermediate | AI-Powered Applications |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # GitHub Analytics
 
@@ -134,7 +133,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # Contribution Activity
 
@@ -144,7 +143,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # Contribution Snake
 
@@ -154,7 +153,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # Current Focus
 
@@ -180,7 +179,7 @@ Open_To:
   - Open Source Contributions
 ````
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # Connect
 
