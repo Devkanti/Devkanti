@@ -135,7 +135,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# GitHub Activity Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -145,7 +145,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# Pacman Contribution Graph
+# GitHub Activity Graph
 
 <div align="center">
 
