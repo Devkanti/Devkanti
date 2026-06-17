@@ -127,27 +127,33 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 # Current Focus
 
-```yaml
-Learning:
-  - Machine Learning
-  - Backend Development
-  - Database Systems
+<div align="center">
 
-Building:
-  - Full Stack Applications
-  - AI-Powered Projects
-  - Mobile Applications
+### 📚 Learning
 
-Exploring:
-  - NLP
-  - Computer Vision
-  - Intelligent Systems
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Backend Development](https://img.shields.io/badge/Backend_Development-0EA5E9?style=for-the-badge)
+![Database Systems](https://img.shields.io/badge/Database_Systems-4479A1?style=for-the-badge)
 
-Open_To:
-  - Internships
-  - Research Opportunities
-  - Open Source Contributions
-````
+### 🚀 Building
+
+![Full Stack Apps](https://img.shields.io/badge/Full_Stack_Apps-7C3AED?style=for-the-badge)
+![AI Projects](https://img.shields.io/badge/AI_Projects-8A2BE2?style=for-the-badge)
+![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-02569B?style=for-the-badge)
+
+### 🔬 Exploring
+
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00C853?style=for-the-badge)
+![Intelligent Systems](https://img.shields.io/badge/Intelligent_Systems-FF4081?style=for-the-badge)
+
+### 🤝 Open To
+
+![Internships](https://img.shields.io/badge/Internships-22C55E?style=for-the-badge)
+![Research](https://img.shields.io/badge/Research-3B82F6?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-181717?style=for-the-badge)
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
