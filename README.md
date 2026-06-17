@@ -35,17 +35,13 @@
 
 # About Me
 
+I am **Devkanti Sarkar**, an Information Technology undergraduate at **VIT Vellore** passionate about building intelligent software systems.
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Information+Technology+Undergraduate+@+VIT+Vellore;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analysis+Practitioner;Computer+Vision+Explorer;Building+Intelligent+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analysis+Practitioner;Computer+Vision+Explorer;AI-Powered+Application+Builder;Design+Head+%40+IEEE-ITS+VIT"/>
 
 </div>
-
-I am a **B.Tech Information Technology student at VIT Vellore**, passionate about building modern software solutions that combine **Full Stack Development, Machine Learning, Data Analysis, and Intelligent Systems**.
-
-My experience spans **web applications, mobile development, backend systems, databases, computer vision, and AI-powered solutions** through academic, personal, and open-source projects.
-
-Beyond development, I serve as the **Design Head of IEEE Information Theory Society (IEEE-ITS), VIT Vellore**, contributing to branding, event design, and technical outreach initiatives.
 
 ### Open To
 
