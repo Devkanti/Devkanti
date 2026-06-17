@@ -137,9 +137,11 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 # Contribution Activity
 
+# Contribution Activity
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Devkanti/Devkanti/output/pacman-contribution-graph-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkanti&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true"/>
 
 </div>
 
