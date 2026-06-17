@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Devkanti%20Sarkar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Devkanti%20Sarkar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20IT%20Undergraduate&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Information+Technology+Undergraduate+at+VIT+Vellore;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Design+Head+at+IEEE-ITS+VIT"/>
 
@@ -28,10 +29,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Devkanti&style=for-the-badge&color=7C3AED)
-
 </div>
 
 ---
@@ -42,7 +39,7 @@ I am an **Information Technology undergraduate at VIT Vellore** passionate about
 
 My interests span **Software Engineering, Full Stack Development, Machine Learning, Artificial Intelligence, Backend Development, Database Systems, and Product Engineering**.
 
-Beyond coding, I serve as the **Design Head of IEEE Information Theory Society (IEEE-ITS), VIT Vellore**, where I contribute to branding, event design, and technical outreach initiatives.
+I enjoy transforming ideas into practical solutions through software, AI, and design. Beyond coding, I serve as the **Design Head of IEEE Information Theory Society (IEEE-ITS), VIT Vellore**, where I contribute to branding, event design, and technical outreach initiatives.
 
 ### Open To
 
@@ -94,80 +91,6 @@ Beyond coding, I serve as the **Design Head of IEEE Information Theory Society (
 
 ---
 
-# Featured Projects
-
-<details>
-<summary><b>🏥 HealthLink – Healthcare Appointment Management System</b></summary>
-
-| Category | Details |
-|----------|----------|
-| Stack | Flutter, Firebase, Firestore |
-| Security | Authentication & Role-Based Access |
-| Features | Appointment Scheduling, Doctor Management |
-| Impact | Streamlined Healthcare Workflow |
-
-Healthcare platform enabling patients to schedule appointments while helping doctors efficiently manage availability.
-
-</details>
-
-<details>
-<summary><b>🤖 Nexus HR Intelligence</b></summary>
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, NLP, Machine Learning |
-| Features | Resume Parsing, Skill Extraction |
-| Performance | Automated Candidate Ranking |
-| Impact | Reduced Screening Time |
-
-AI-powered recruitment intelligence platform for candidate evaluation and resume screening.
-
-</details>
-
-<details>
-<summary><b>🏋️ Sports Companion</b></summary>
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, OpenCV, MediaPipe |
-| Features | Pose Detection, Activity Monitoring |
-| Performance | Real-Time Analysis |
-| Impact | Improved Workout Accuracy |
-
-Computer vision-based fitness assistant that analyzes posture and exercise movements.
-
-</details>
-
-<details>
-<summary><b>🇯🇵 Nihongo Tutor</b></summary>
-
-| Category | Details |
-|----------|----------|
-| Stack | React, Node.js, MongoDB |
-| Features | Flashcards, Kanji Practice |
-| Performance | Fast Content Delivery |
-| Impact | Better Learning Retention |
-
-Interactive Japanese language learning platform using spaced repetition.
-
-</details>
-
----
-
-# Experience
-
-## Design Head — IEEE Information Theory Society (IEEE-ITS), VIT Vellore
-
-**2025 – Present**
-
-- Event branding and promotion
-- Social media visual strategy
-- Marketing asset creation
-- Design team collaboration
-- Technical outreach support
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -186,21 +109,13 @@ Interactive Japanese language learning platform using spaced repetition.
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devkanti&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # Contribution Activity
 
 <div align="center">
 
-[![Devkanti's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkanti&theme=tokyo-night&hide_border=true)](https://github.com/Devkanti)
+[![Devkanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkanti&theme=tokyo-night&hide_border=true)](https://github.com/Devkanti)
 
 </div>
 
@@ -238,7 +153,7 @@ Open_To:
   - Internships
   - Research Opportunities
   - Open Source Contributions
-```
+````
 
 ---
 
@@ -266,12 +181,7 @@ Open_To:
 
 ---
 
-<div align="center">
-
-### Building intelligent software that creates meaningful impact.
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:9333EA"/>
 
-````
+```
+```
