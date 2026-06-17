@@ -53,47 +53,43 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 # Tech Stack
 
+<div align="center">
+
 ### Programming Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
-</p>
+
+<br><br>
 
 ### Web & App Development
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter"/>
-</p>
 
-<div align="center">
+<br><br>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</div>
+<br><br>
 
 ### Database Management
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase"/>
-</p>
 
-<div align="center">
+<br><br>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
-</div>
+<br><br>
 
 ### AI & Data Science
 
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Data Structures](https://img.shields.io/badge/Data_Structures-008080?style=for-the-badge)
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Structures-008080?style=for-the-badge"/>
 
 </div>
 
