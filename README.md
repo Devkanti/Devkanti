@@ -32,6 +32,7 @@
 </div>
 
 ---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # About Me
 
@@ -139,7 +140,7 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 <div align="center">
 
-[![Devkanti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkanti&theme=tokyo-night&hide_border=true)](https://github.com/Devkanti)
+<img src="https://raw.githubusercontent.com/Devkanti/Devkanti/output/pacman-contribution-graph-dark.svg" />
 
 </div>
 
