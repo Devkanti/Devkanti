@@ -155,18 +155,18 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 ```yaml
 Learning:
-  - System Design
-  - Advanced Backend Engineering
-  - Machine Learning Systems
+  - Machine Learning
+  - Backend Development
+  - Database Systems
 
 Building:
-  - AI-Powered Applications
-  - Full Stack Platforms
-  - Open Source Projects
+  - Full Stack Applications
+  - AI-Powered Projects
+  - Mobile Applications
 
 Exploring:
-  - LLM Integrations
-  - Product Engineering
+  - NLP
+  - Computer Vision
   - Intelligent Systems
 
 Open_To:
