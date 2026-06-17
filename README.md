@@ -90,8 +90,6 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 </tr>
 </table>
 
-<div align="center">
-
 # Core Expertise
 
 <div align="center">
