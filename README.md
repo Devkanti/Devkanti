@@ -35,19 +35,25 @@
 
 # About Me
 
-I am an **Information Technology undergraduate at VIT Vellore** passionate about building scalable software systems, intelligent applications, and modern digital products.
+<div align="center">
 
-My interests span **Software Engineering, Full Stack Development, Machine Learning, Artificial Intelligence, Backend Development, Database Systems, and Product Engineering**.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Information+Technology+Undergraduate+@+VIT+Vellore;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analysis+Practitioner;Computer+Vision+Explorer;Building+Intelligent+Applications"/>
 
-I enjoy transforming ideas into practical solutions through software, AI, and design. Beyond coding, I serve as the **Design Head of IEEE Information Theory Society (IEEE-ITS), VIT Vellore**, where I contribute to branding, event design, and technical outreach initiatives.
+</div>
+
+I am a **B.Tech Information Technology student at VIT Vellore**, passionate about building modern software solutions that combine **Full Stack Development, Machine Learning, Data Analysis, and Intelligent Systems**.
+
+My experience spans **web applications, mobile development, backend systems, databases, computer vision, and AI-powered solutions** through academic, personal, and open-source projects.
+
+Beyond development, I serve as the **Design Head of IEEE Information Theory Society (IEEE-ITS), VIT Vellore**, contributing to branding, event design, and technical outreach initiatives.
 
 ### Open To
 
-- Software Engineering Internships
-- Full Stack Development Opportunities
-- AI & Machine Learning Projects
-- Open Source Contributions
-- Research Collaborations
+- 💼 Software Engineering Internships
+- 🌐 Full Stack Development Opportunities
+- 🤖 Machine Learning & AI Projects
+- 📊 Data Analysis Projects
+- 🚀 Open Source Contributions
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
