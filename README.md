@@ -69,20 +69,14 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 <div align="center">
 
-### 🌐 Full Stack Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🤖 Machine Learning & Data Analysis
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2196F3?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Visualization-0EA5E9?style=for-the-badge)
-
-### 👁️ Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-00C853?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+| Domain | Technologies & Focus |
+|---------|---------------------|
+| 🌐 Full Stack Development | React • Node.js • Express.js • Flutter |
+| 🤖 Machine Learning | Model Training • Evaluation • Predictive Systems |
+| 📊 Data Analysis | EDA • Data Cleaning • Visualization |
+| 👁️ Computer Vision | OpenCV • MediaPipe • Pose Estimation |
+| 🧠 NLP | HuggingFace • Text Processing |
+| 🗄️ Backend Systems | REST APIs • MongoDB • PostgreSQL • Firebase |
 
 </div>
 
