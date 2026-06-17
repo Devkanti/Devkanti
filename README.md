@@ -128,7 +128,7 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
