@@ -53,42 +53,25 @@ I enjoy transforming ideas into practical solutions through software, AI, and de
 
 # Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### Web & App Dev
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,flutter"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,express,flutter,mongodb,postgres,firebase,git,github"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase"/>
-
-<br><br>
-
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Analysis-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Structures-008080?style=flat-square"/>
 
-</td>
+</div>
 
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 # Core Expertise
 
