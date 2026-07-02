@@ -67,6 +67,8 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 # Core Expertise
 
+<div align="center">
+
 | Domain | Technologies & Focus |
 |---------|---------------------|
 | Full Stack Development | React • Node.js • Express.js • Flutter |
