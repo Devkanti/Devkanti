@@ -129,7 +129,6 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 <br><br>
 
-<a href="https://github.com/Devkanti"><img src="https://img.shields.io/badge/GitHub-Devkanti-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://devkantisarkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
