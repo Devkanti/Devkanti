@@ -82,8 +82,6 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devkanti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170em" src="https://streak-stats.demolab.com?user=Devkanti&theme=tokyonight&hide_border=true"/>
 
 </div>
