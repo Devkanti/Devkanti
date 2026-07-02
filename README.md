@@ -9,7 +9,6 @@
 
 ![](https://img.shields.io/badge/VIT_Vellore-Information_Technology-7C3AED?style=for-the-badge)
 ![](https://img.shields.io/badge/B.Tech-IT-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Asansol-West_Bengal-6366F1?style=for-the-badge)
 
 <br><br>
 
