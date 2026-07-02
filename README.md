@@ -113,12 +113,16 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 # Current Focus
 
+<div align="center">
+
 | Category | Focus |
 |------------|-----------|
 | Learning | Machine Learning • Backend Development • Database Systems |
 | Building | Full Stack Applications • AI-Powered Projects • Mobile Applications |
 | Exploring | NLP • Computer Vision • Intelligent Systems |
 | Open To | Internships • Research Opportunities • Open Source Contributions |
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
