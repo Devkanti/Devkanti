@@ -89,16 +89,6 @@ Beyond development, I serve as the **Design Head of IEEE Information Theory Soci
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkanti&bg_color=0D1117&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 # GitHub Activity Graph
 
 <div align="center">
